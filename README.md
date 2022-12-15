@@ -1,8 +1,8 @@
 ### Hi there 👋, Dominik here!
 #### I am an learning Application Developer and Indie GameDev.
-![I am an learning Application Developer and Indie GameDev.](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![I am an learning Application Developer and Indie GameDev.]
 
-I am currently making my apprenticeship as an Application Developer at the german company Volkswagen. Since now over 5 years im also an Indie Game Developer.
+I am currently making my apprenticeship as an Application Developer at the german company Volkswagen. Since now over 7 years im also an Indie Game Developer.
 
 Skills: Python, C# and PHP
 
